@@ -6,6 +6,8 @@
 
 A single comic word for the whole internet, written as a deterministic UTF-8 text artifact for [The Internet in One Word](https://make.fun/bounty/u-ronigrv-the-internet-in-one-word-e388f33b).
 
+The entry is **Clownopedia**: one word, 11 ASCII bytes.
+
 ## Run it
 
 Requires Node.js 22.18 or later. The competition uses Node.js 22.23.4 and provides a writable `/output` directory.
