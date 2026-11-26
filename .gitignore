@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+.makefun-kit/
+node_modules/
+opencode-images/
+*.log
+transcripts*.tar.gz
